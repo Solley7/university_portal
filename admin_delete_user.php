@@ -1,5 +1,5 @@
 <?php
-// FILE: admin_delete_user.php (New File)
+// FILE: admin_delete_user.php 
 // PURPOSE: Deletes a user from the database.
 
 require_once 'db_connect.php';

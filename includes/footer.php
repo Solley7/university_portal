@@ -1,5 +1,5 @@
 <?php
-// FILE: includes/footer.php (Reverted to match Top Nav Layout)
+// FILE: includes/footer.php
 ?>
     </div> <!-- This closes the main .container from header.php -->
 

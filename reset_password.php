@@ -1,5 +1,5 @@
 <?php
-// FILE: reset_password.php (New File)
+// FILE: reset_password.php
 // PURPOSE: Verifies the reset token and allows the user to set a new password.
 
 require_once 'db_connect.php';

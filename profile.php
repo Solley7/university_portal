@@ -1,5 +1,5 @@
 <?php
-// FILE: profile.php (Complete and Functional)
+// FILE: profile.php 
 // PURPOSE: Allows students to view and update their personal profile information.
 
 require_once 'db_connect.php';

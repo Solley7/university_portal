@@ -1,5 +1,5 @@
 <?php
-// FILE: teacher_dashboard.php (Redesigned with new UI)
+// FILE: teacher_dashboard.php
 require_once 'db_connect.php';
 $page_title = "Teacher Dashboard";
 include 'includes/header.php';

@@ -1,8 +1,8 @@
 <?php
-// FILE: login.php (Refactored)
+// FILE: login.php 
 require_once 'db_connect.php';
 
-// --- PHP logic for login remains the same ---
+
 if (session_status() == PHP_SESSION_NONE) { session_start(); }
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = trim($_POST['email']);

@@ -1,5 +1,5 @@
 <?php
-// FILE: includes/header.php (Reverted to Top Navigation Design)
+// FILE: includes/header.php 
 if (session_status() == PHP_SESSION_NONE) {
     session_start();
 }

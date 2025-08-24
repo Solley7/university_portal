@@ -1,5 +1,4 @@
 <?php
-// FILE: admin_courses.php (New File)
 // PURPOSE: Lists all courses and provides links to edit/delete them (Read).
 
 require_once 'db_connect.php';

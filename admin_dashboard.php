@@ -1,5 +1,4 @@
 <?php
-// FILE: admin_dashboard.php (Updated with animation classes)
 require_once 'db_connect.php';
 $page_title = "Admin Dashboard";
 include 'includes/header.php';

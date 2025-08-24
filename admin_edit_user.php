@@ -1,5 +1,5 @@
 <?php
-// FILE: admin_edit_user.php (New File)
+// FILE: admin_edit_user.php
 // PURPOSE: Form to create a new user or update an existing one.
 
 require_once 'db_connect.php';

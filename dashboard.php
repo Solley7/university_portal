@@ -1,5 +1,5 @@
 <?php
-// FILE: dashboard.php (Final, Complete & Redesigned UI)
+// FILE: dashboard.php
 // PURPOSE: The single, dynamic dashboard for all student activities.
 
 require_once 'db_connect.php';

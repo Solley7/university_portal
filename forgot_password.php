@@ -1,5 +1,5 @@
 <?php
-// FILE: forgot_password.php (Refactored)
+// FILE: forgot_password.php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 require 'PHPMailer/src/Exception.php';

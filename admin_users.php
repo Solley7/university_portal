@@ -18,7 +18,6 @@ $conn->close();
 ?>
 
 <h2>Manage All Users</h2>
-<p>From this panel, you can edit user details, change roles, and remove accounts.</p>
 
 <?php if (isset($_GET['status']) && $_GET['status'] == 'success'): ?>
     <div class="alert alert-success">User saved successfully!</div>

@@ -1,4 +1,4 @@
-// FILE: js/main.js (New File)
+// FILE: js/main.js 
 // PURPOSE: Adds subtle animations to improve the UI/UX of the portal.
 
 document.addEventListener("DOMContentLoaded", function() {

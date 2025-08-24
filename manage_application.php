@@ -1,5 +1,5 @@
 <?php
-// FILE: manage_application.php (Complete, Corrected, and Refactored)
+// FILE: manage_application.php
 // PURPOSE: Allows an admin to view a single application, update its status, and approve courses.
 
 require_once 'db_connect.php';

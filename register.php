@@ -1,5 +1,5 @@
 <?php
-// FILE: register.php (Refactored)
+// FILE: register.php
 require_once 'db_connect.php';
 
 // --- PHP logic for registration remains the same ---

@@ -1,5 +1,5 @@
 <?php
-// FILE: admin_edit_course.php (New File)
+// FILE: admin_edit_course.php 
 // PURPOSE: A single form to both create new courses and update existing ones.
 
 require_once 'db_connect.php';

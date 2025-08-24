@@ -1,5 +1,4 @@
 <?php
-// FILE: admin_delete_course.php (New File)
 // PURPOSE: Deletes a course record from the database.
 
 require_once 'db_connect.php';

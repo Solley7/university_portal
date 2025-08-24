@@ -1,5 +1,5 @@
 <?php
-// FILE: change_password.php (New File)
+// FILE: change_password.php
 // PURPOSE: Allows a logged-in user to change their password securely.
 
 require_once 'db_connect.php';

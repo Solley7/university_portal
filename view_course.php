@@ -1,5 +1,5 @@
 <?php
-// FILE: view_course.php (Complete, Corrected, and Refactored)
+// FILE: view_course.php
 // PURPOSE: Allows teachers to view students in a course and assign grades.
 
 require_once 'db_connect.php';

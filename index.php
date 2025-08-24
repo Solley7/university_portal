@@ -1,5 +1,4 @@
 <?php 
-// FILE: index.php (Restored to previous, more dynamic design)
 $page_title = "Welcome to InnovateU";
 include 'includes/header.php'; 
 ?>
